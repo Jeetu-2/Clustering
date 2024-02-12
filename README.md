@@ -1,5 +1,7 @@
 # Clustering
 
+Steps :
+
 1. Selecting a dataset from UCI Library and importing it to Google Colab
 2. Performing Cluster (K Means + Hierarchial + Birch) analysis
 3. Saving the scores from Cluster analysis in table format (in CSV file)
